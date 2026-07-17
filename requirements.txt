@@ -6,3 +6,4 @@ timm
 numpy
 Pillow
 pytorch-msssim
+huggingface_hub
